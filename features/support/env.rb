@@ -1,0 +1,5 @@
+require "cucumber"
+require "httparty"
+require "rspec"
+require "httparty/request"
+require "httparty/response/headers"
